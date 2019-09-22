@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ailahnohth.b7-tournament.de/sitemap.xml
